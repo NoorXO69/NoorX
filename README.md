@@ -1,2 +1,2 @@
-# NoorX
-This is my first repository..
+# NoorX-Demo
+This is my First Git Repository..
